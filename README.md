@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+안녕하십니까 저는 영남대학교에 재학 중인 22살 2학년 강민혁입니다. 좋아하는 음식은 많구요. 저의 꿈은 전세계를 지배하는 것 입니다. 두고 보시면 될 것 같습니다.
+
 <!--
 **martinkang1234/martinkang1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
